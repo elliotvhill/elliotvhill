@@ -30,4 +30,4 @@ I'm a Full Stack Software Developer who is passionate about creating inclusive a
 <a href="https://www.linkedin.com/in/elliotvhill"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/elliotvh"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href="https://leetcode.com/ell8031/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-
+<a href="https://www.codewars.com/users/ell8031"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a>

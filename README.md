@@ -33,13 +33,15 @@ I'm a Full Stack Software Developer who is passionate about creating inclusive a
 # Projects
 ### Rove Curious
 #### <a href="https://github.com/elliotvhill/Rove_Curious_NASA_API">GitHub repo</a> | <a href="https://rove-curious.surge.sh/">Live site</a>
+<img alt="Screenshot of the Rove Curious app" src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/Rove-Curious.png" height=50% width=50% />
 
 ### Sad Dads Concert Tracker
 #### <a href="https://github.com/elliotvhill/Sad-Dads-Concert-Tracker">GitHub repo</a> | <a href="#">Live site</a>
+<img src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/Sad-Dads-Concert-Tracker.png" alt="Screenshot of the Sad Dads 'add a concert' page" height=50% width=50% />
 
 ### DALL-E-Dazzle
 #### <a href="https://github.com/Adrienx/DALL-E-Dazzle">GitHub repo</a> | <a href="#">Live site</a>
-
+<img alt="Screenshot of the DALL-E-Dazzle home page" src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/DALL-E-Dazzle-Home.png" height=50% width=50% />
 
 # Contact and Social
 <strong>Email:</strong> elliotvh@icloud.com<br />

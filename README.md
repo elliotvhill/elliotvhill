@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Elliot.
+# 👋 Hi, I’m Elliot.
 
 I'm a Full Stack Software Developer who is passionate about creating inclusive and accessible technology. With over 10 years experience in customer service, I bring a diverse skill set that blends customer-centricity with technical expertise. I develop clean and user-friendly infrastructure to meet the needs of businesses and consumers alike.
 
@@ -30,8 +30,21 @@ I'm a Full Stack Software Developer who is passionate about creating inclusive a
 ![Static Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
-#### Social:
-<a href="https://www.linkedin.com/in/elliotvhill"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/elliotvh"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-<a href="https://leetcode.com/ell8031/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-<a href="https://www.codewars.com/users/ell8031"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a>
+# Projects
+### Rove Curious
+#### <a href="https://github.com/elliotvhill/Rove_Curious_NASA_API">GitHub repo</a> | <a href="https://rove-curious.surge.sh/">Live site</a>
+
+### Sad Dads Concert Tracker
+#### <a href="https://github.com/elliotvhill/Sad-Dads-Concert-Tracker">GitHub repo</a> | <a href="#">Live site</a>
+
+### DALL-E-Dazzle
+#### <a href="https://github.com/Adrienx/DALL-E-Dazzle">GitHub repo</a> | <a href="#">Live site</a>
+
+
+# Contact and Social
+<strong>Email:</strong> elliotvh@icloud.com<br />
+<strong>Portfolio:</strong> <br />
+<a href="https://www.linkedin.com/in/elliotvhill"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br />
+<a href="https://www.hackerrank.com/elliotvh"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a><br />
+<a href="https://leetcode.com/ell8031/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a><br />
+<a href="https://www.codewars.com/users/ell8031"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a><br />

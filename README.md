@@ -32,28 +32,28 @@ I'm a Full Stack Software Developer who is passionate about creating inclusive a
 
 ## Projects
 ### Rove Curious
-#### <a href="https://github.com/elliotvhill/Rove_Curious_NASA_API">GitHub repo</a> | <a href="https://rove-curious.surge.sh/">Live site</a>
+#### <a href="https://github.com/elliotvhill/Rove_Curious_NASA_API" target="_blank">GitHub repo</a> | <a href="https://rove-curious.surge.sh/" target="_blank">Live site</a>
 Browser-based web app built with vanilla Javascript that uses RESTful Axios API calls to pull images from NASA's Mars Curiosity Rover Photos API. As a first project, the goal was to use DOM manipulation, event listeners, and API calls to craft an app using minimal HTML.
 
 <img alt="Screenshot of the Rove Curious app" src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/Rove-Curious.png" height=50% width=50% />
 <br />
 
 ### Sad Dads Concert Tracker
-#### <a href="https://github.com/elliotvhill/Sad-Dads-Concert-Tracker">GitHub repo</a> | <a href="#">Live site</a>
+#### <a href="https://github.com/elliotvhill/Sad-Dads-Concert-Tracker" target="_blank">GitHub repo</a> | <a href="#" target="_blank">Live site</a>
 Full Stack application built with a custom RESTful API implemented using MongoDB and Mongoose. The app allows users to track concerts they’ve attended, including artists, venues, and setlists.
 
 <img src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/Sad-Dads-Concert-Tracker.png" alt="Screenshot of the Sad Dads 'add a concert' page" height=50% width=50% />
 <br />
 
 ### DALL-E-Dazzle
-#### <a href="https://github.com/Adrienx/DALL-E-Dazzle">GitHub repo</a> | <a href="#">Live site</a>
+#### <a href="https://github.com/Adrienx/DALL-E-Dazzle" target="_blank">GitHub repo</a> | <a href="#" target="_blank">Live site</a>
 Full Stack AI application built using the MERN stack and OpenAI’s DALL-E API. Users can enter a text prompt to create an AI-generated image and save to a cloud gallery via Cloudinary’s RESTful upload image API. The app uses React state and context to iterate upon an original prompt and improve the images.
 
 <img alt="Screenshot of the DALL-E-Dazzle home page" src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/DALL-E-Dazzle-Home.png" height=50% width=50% />
 
 ## Contact and Social
 <strong>Email:</strong> elliotvh@icloud.com<br />
-<strong>Portfolio:</strong> <br />
+<strong>Portfolio:</strong><a href="https://www.elliotvh.dev" target="_blank"> elliotvh.dev </a> <br />
 <br />
 <a href="https://www.linkedin.com/in/elliotvhill"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br />
 <a href="https://www.hackerrank.com/elliotvh"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a><br />

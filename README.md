@@ -39,20 +39,25 @@ Browser-based web app built with vanilla Javascript that uses RESTful Axios API 
 <br />
 
 ### Sad Dads Concert Tracker
-#### <a href="https://github.com/elliotvhill/Sad-Dads-Concert-Tracker">GitHub repo</a> | <a href="#">Live site</a>
+#### <a href="https://github.com/elliotvhill/Sad-Dads-Concert-Tracker">GitHub repo</a> | Live site _(in development!)_
 Full Stack application built with a custom RESTful API implemented using MongoDB and Mongoose. The app allows users to track concerts they’ve attended, including artists, venues, and setlists.
 
 <img src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/Sad-Dads-Concert-Tracker.png" alt="Screenshot of the Sad Dads 'add a concert' page" height=50% width=50% />
 <br />
 
+### Galaxy Gaze
+#### GitHub repos: <a href="https://github.com/elliotvhill/capstone-fe">front end</a> | <a href="https://github.com/elliotvhill/galaxygaze-be">back end</a> || _(in development!)_
+An astronomy planning app built using the open Astronomy RESTful API, Python, Django, Express, React, and Tailwind.
+
+<br />
+
 ### DALL-E-Dazzle
-#### <a href="https://github.com/Adrienx/DALL-E-Dazzle">GitHub repo</a> | <a href="#">Live site</a>
+#### <a href="https://github.com/Adrienx/DALL-E-Dazzle">GitHub repo</a> | Live site _(in development!)_
 Full Stack AI application built using the MERN stack and OpenAI’s DALL-E API. Users can enter a text prompt to create an AI-generated image and save to a cloud gallery via Cloudinary’s RESTful upload image API. The app uses React state and context to iterate upon an original prompt and improve the images.
 
 <img alt="Screenshot of the DALL-E-Dazzle home page" src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/DALL-E-Dazzle-Home.png" height=50% width=50% />
 
 ## Contact and Social
-<strong>Email:</strong> elliotvh@icloud.com<br />
 <strong>Portfolio:</strong> [www.elliotvh.dev](https://www.elliotvh.dev) <br />
 <br />
 <a href="https://www.linkedin.com/in/elliotvhill"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br />

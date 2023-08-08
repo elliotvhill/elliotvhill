@@ -39,7 +39,7 @@ Browser-based web app built with vanilla Javascript that uses RESTful Axios API 
 <br />
 
 ### Sad Dads Concert Tracker
-#### <a href="https://github.com/elliotvhill/Sad-Dads-Concert-Tracker">GitHub repo</a> | Live site _(in development!)_
+#### <a href="https://github.com/elliotvhill/Sad-Dads-Concert-Tracker">GitHub repo</a> | <a href="https://sad-dads-concert-tracker.vercel.app/">Live site</a> _(in development!)_
 Full Stack application built with a custom RESTful API implemented using MongoDB and Mongoose. The app allows users to track concerts they’ve attended, including artists, venues, and setlists.
 
 <img src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/Sad-Dads-Concert-Tracker.png" alt="Screenshot of the Sad Dads 'add a concert' page" height=50% width=50% />

@@ -61,7 +61,6 @@ Full Stack AI application built using the MERN stack and OpenAI’s DALL-E API. 
 <img alt="Screenshot of the DALL-E-Dazzle home page" src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/DALL-E-Dazzle-Home.png" height=50% width=50% />
 
 ## Contact and Social
-<strong>Portfolio:</strong> [www.elliotvh.dev](https://www.elliotvh.dev) <br />
 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/elliotvhill">in/elliotvhill</a><br />
 <strong>Hackerrank:</strong> <a href="https://www.hackerrank.com/elliotvh">elliotvh</a><br />
 <strong>LeetCode:</strong> <a href="https://leetcode.com/ell8031/">ell8031</a><br />

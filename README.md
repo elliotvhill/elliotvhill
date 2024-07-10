@@ -1,7 +1,10 @@
 # 👋 Hi, I’m Elliot.
 
-I'm a Full Stack Software Developer who is passionate about creating inclusive and accessible technology. With over 10 years' experience in customer service, I bring a diverse skill set that blends customer-centricity with technical expertise. I develop clean and user-friendly infrastructure to meet the needs of businesses and consumers alike.
+As a **junior software engineer** and bootcamp graduate, I am honing my skills in **full-stack web development**, using the latest technologies and methodologies to create clean and user-friendly infrastructure.
+With **over 10 years of experience in customer service**, I have developed a strong **customer-centric mindset** and a proven track record of driving revenue retention and expansion for enterprise clients.
+I am passionate about applying my technical expertise to build **inclusive and accessible technology** that meets the needs of diverse businesses and consumers.
 
+---
 
 #### Languages and frameworks:
 ![Static Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logxo=react&logoColor=61DAFB)
@@ -36,7 +39,10 @@ I'm a Full Stack Software Developer who is passionate about creating inclusive a
 ![Static Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
+---
+
 ## Projects
+
 ### Rove Curious
 #### <a href="https://github.com/elliotvhill/Rove_Curious_NASA_API">GitHub repo</a> | <a href="https://rove-curious.surge.sh/">Live site</a>
 Browser-based web app built with vanilla Javascript that uses RESTful Axios API calls to pull images from NASA's Mars Curiosity Rover Photos API. As a first project, the goal was to use DOM manipulation, event listeners, and API calls to craft an app using minimal HTML.
@@ -63,7 +69,10 @@ Full Stack AI application built using the MERN stack and OpenAI’s DALL-E API. 
 
 <img alt="Screenshot of the DALL-E-Dazzle home page" src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/DALL-E-Dazzle-Home.png" height=50% width=50% />
 
+---
+
 ## Contact and Social
+
 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/elliotvhill">in/elliotvhill</a><br />
 <strong>Hackerrank:</strong> <a href="https://www.hackerrank.com/elliotvh">elliotvh</a><br />
 <strong>LeetCode:</strong> <a href="https://leetcode.com/ell8031/">ell8031</a><br />

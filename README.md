@@ -75,7 +75,7 @@ Full Stack AI application built using the MERN stack and OpenAI’s DALL-E API. 
 
 <strong>Portfolio:</strong> <a href="https://elliotvh-dev.netlify.app/">elliotvh-dev</a><br />
 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/elliotvhill">in/elliotvhill</a><br />
-<strong>Instagram:</strong> <a href="https://www.instagram.com/elliotvh.dev/">@elliotvh.dev</a><br />
+<strong>Threads:</strong> <a href="https://www.threads.net/@elliotvh.dev">@elliotvh.dev</a><br />
 <strong>Hackerrank:</strong> <a href="https://www.hackerrank.com/elliotvh">elliotvh</a><br />
 <strong>LeetCode:</strong> <a href="https://leetcode.com/ell8031/">ell8031</a><br />
 <strong>Codewars:</strong> <a href="https://www.codewars.com/users/ell8031">ell8031</a><br />

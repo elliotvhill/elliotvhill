@@ -43,18 +43,17 @@ I am passionate about applying my technical expertise to build **inclusive and a
 
 ## Projects
 
+### Jumpy Jumper JavaScript Platformer Game
+#### <a href="https://github.com/elliotvhill/fcc-platformer-game">GitHub repo</a> | <a href="https://jumpy-jumper.surge.sh/">Live site</a>
+A simple platformer game built for freeCodeCamp's [JavaScript Data Structures and Algorithms course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8). Players can use arrow keys and the spacebar to reach platforms and three checkpoints. Uses the Web Animations API to animate frames.
+
+<br />
+
 ### Rove Curious
 #### <a href="https://github.com/elliotvhill/Rove_Curious_NASA_API">GitHub repo</a> | <a href="https://rove-curious.surge.sh/">Live site</a>
 Browser-based web app built with vanilla Javascript that uses RESTful Axios API calls to pull images from NASA's Mars Curiosity Rover Photos API. As a first project, the goal was to use DOM manipulation, event listeners, and API calls to craft an app using minimal HTML.
 
 <img alt="Screenshot of the Rove Curious app" src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/Rove-Curious.png" height=50% width=50% />
-<br />
-
-### Sad Dads Concert Tracker
-#### <a href="https://github.com/elliotvhill/Sad-Dads-Concert-Tracker">GitHub repo</a> | <a href="https://sad-dads-concert-tracker.vercel.app/">Live site</a> _(in development!)_
-Full Stack application built with a custom RESTful API implemented using MongoDB and Mongoose. The app allows users to track concerts they’ve attended, including artists, venues, and setlists.
-
-<img src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/Sad-Dads-Concert-Tracker.png" alt="Screenshot of the Sad Dads 'add a concert' page" height=50% width=50% />
 <br />
 
 ### Galaxy Gaze

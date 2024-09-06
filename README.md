@@ -45,6 +45,13 @@ In my previous role as an enterprise customer support representative, I develope
 
 ## Projects
 
+### Live Markdown Viewer
+#### <a href="https://gitlab.com/elliotvh/fcc-fe-libs-project-md-previewer" target="_blank">GitLab repo</a> | <a href="https://live-markdown-viewer.vercel.app/" target="_blank">Live site</a>
+A web app where users can type markdown text into an editor and see it rendered in real time in a preview window. Built using React, Vite, and the [marked.js](https://marked.js.org/) JavaScript library. Styled with Sass/SCSS and Bootstrap. Developed as one of five required projects for freeCodeCamp's _[Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)_ certification.
+
+<img src="https://i.imgur.com/1HqoOiu.png" alt="A screenshot of a markdown preview app, with editor and preview boxes visible" height=50% width=50% />
+<br />
+
 ### Jumpy Jumper JavaScript Platformer Game
 #### <a href="https://github.com/elliotvhill/fcc-platformer-game" target="_blank">GitHub repo</a> | <a href="https://jumpy-jumper.surge.sh/" target="_blank">Live site</a>
 A simple platformer game built for freeCodeCamp's _[JavaScript Data Structures and Algorithms course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8)_. Players can use arrow keys and the spacebar to reach platforms and three checkpoints. Uses the Web Animations API to animate frames.
@@ -56,11 +63,6 @@ A simple platformer game built for freeCodeCamp's _[JavaScript Data Structures a
 Browser-based web app built with vanilla Javascript that uses RESTful Axios API calls to pull images from NASA's Mars Curiosity Rover Photos API. As a first project, the goal was to use DOM manipulation, event listeners, and API calls to craft an app using minimal HTML.
 
 <img alt="Screenshot of the Rove Curious app" src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/Rove-Curious.png" height=50% width=50% />
-<br />
-
-### Live Markdown Viewer
-#### <a href="https://gitlab.com/elliotvh/fcc-fe-libs-project-md-previewer" target="_blank">GitLab repo</a> | <a href="https://live-markdown-viewer.vercel.app/" target="_blank">Live site</a>
-
 <br />
 
 ### DALL-E-Dazzle

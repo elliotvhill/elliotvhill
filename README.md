@@ -1,8 +1,10 @@
 # 👋 Hi, I’m Elliot.
 
-As a **junior software engineer** and bootcamp graduate, I am honing my skills in **full-stack web development**, using the latest technologies and methodologies to create clean and user-friendly infrastructure.
-With **over 10 years of experience in customer service**, I have developed a strong **customer-centric mindset** and a proven track record of driving revenue retention and expansion for enterprise clients.
-I am passionate about applying my technical expertise to build **inclusive and accessible technology** that meets the needs of diverse businesses and consumers.
+I am a web developer and junior software engineer with over **10 years of experience** in customer service.
+
+**In 2023**, I graduated from a full stack **software engineering boot camp**, where I gained experience with the latest front- and back-end programming languages, tools, and methodologies—including **HTML, CSS, SASS, JavaScript, Node.JS, React.JS, MongoDB, Mongoose, SQL, Python, and Django**—and completed a number of projects focused on the real-world applications of web development principles and best practices.
+
+In my previous role as an enterprise customer support representative, I developed a strong **customer-centric mindset**, facilitated cross-functional communication between product and engineering teams, and **consistently exceeded expectations** in customer satisfaction and business retention.
 
 ---
 
@@ -44,26 +46,25 @@ I am passionate about applying my technical expertise to build **inclusive and a
 ## Projects
 
 ### Jumpy Jumper JavaScript Platformer Game
-#### <a href="https://github.com/elliotvhill/fcc-platformer-game">GitHub repo</a> | <a href="https://jumpy-jumper.surge.sh/">Live site</a>
-A simple platformer game built for freeCodeCamp's [JavaScript Data Structures and Algorithms course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8). Players can use arrow keys and the spacebar to reach platforms and three checkpoints. Uses the Web Animations API to animate frames.
+#### <a href="https://github.com/elliotvhill/fcc-platformer-game" target="_blank">GitHub repo</a> | <a href="https://jumpy-jumper.surge.sh/" target="_blank">Live site</a>
+A simple platformer game built for freeCodeCamp's _[JavaScript Data Structures and Algorithms course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8)_. Players can use arrow keys and the spacebar to reach platforms and three checkpoints. Uses the Web Animations API to animate frames.
 
 <br />
 
 ### Rove Curious
-#### <a href="https://github.com/elliotvhill/Rove_Curious_NASA_API">GitHub repo</a> | <a href="https://rove-curious.surge.sh/">Live site</a>
+#### <a href="https://github.com/elliotvhill/Rove_Curious_NASA_API" target="_blank">GitHub repo</a> | <a href="https://rove-curious.surge.sh/" target="_blank">Live site</a>
 Browser-based web app built with vanilla Javascript that uses RESTful Axios API calls to pull images from NASA's Mars Curiosity Rover Photos API. As a first project, the goal was to use DOM manipulation, event listeners, and API calls to craft an app using minimal HTML.
 
 <img alt="Screenshot of the Rove Curious app" src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/Rove-Curious.png" height=50% width=50% />
 <br />
 
-### Galaxy Gaze
-#### GitHub repos: <a href="https://github.com/elliotvhill/capstone-fe">front end</a> | <a href="https://github.com/elliotvhill/galaxygaze-be">back end</a> || _(in development!)_
-An astronomy planning app built using the open Astronomy RESTful API, Python, Django, Express, React, and Tailwind.
+### Live Markdown Viewer
+#### <a href="https://gitlab.com/elliotvh/fcc-fe-libs-project-md-previewer" target="_blank">GitLab repo</a> | <a href="https://live-markdown-viewer.vercel.app/" target="_blank">Live site</a>
 
 <br />
 
 ### DALL-E-Dazzle
-#### <a href="https://github.com/Adrienx/DALL-E-Dazzle">GitHub repo</a> | Live site _(in development!)_
+#### <a href="https://github.com/Adrienx/DALL-E-Dazzle" target="_blank">GitHub repo</a>
 Full Stack AI application built using the MERN stack and OpenAI’s DALL-E API. Users can enter a text prompt to create an AI-generated image and save to a cloud gallery via Cloudinary’s RESTful upload image API. The app uses React state and context to iterate upon an original prompt and improve the images.
 
 <img alt="Screenshot of the DALL-E-Dazzle home page" src="https://github.com/elliotvhill/elliotvhill/blob/144d2f962753f66bc3237975b4d581d3b5a3a69d/DALL-E-Dazzle-Home.png" height=50% width=50% />
@@ -72,10 +73,11 @@ Full Stack AI application built using the MERN stack and OpenAI’s DALL-E API. 
 
 ## Contact and Social
 
-<strong>Portfolio:</strong> <a href="https://elliotvh-dev.netlify.app/">elliotvh-dev</a><br />
-<strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/elliotvhill">in/elliotvhill</a><br />
-<strong>Threads:</strong> <a href="https://www.threads.net/@elliotvh.dev">@elliotvh.dev</a><br />
-<strong>Hackerrank:</strong> <a href="https://www.hackerrank.com/elliotvh">elliotvh</a><br />
-<strong>LeetCode:</strong> <a href="https://leetcode.com/ell8031/">ell8031</a><br />
-<strong>Codewars:</strong> <a href="https://www.codewars.com/users/ell8031">ell8031</a><br />
-<strong>Codepen:</strong> <a href="https://codepen.io/ell8031">ell8031</a><br />
+<strong>Portfolio:</strong> <a href="https://elliotvh-dev.netlify.app/" target="_blank">elliotvh-dev</a><br />
+<strong>GitLab:</strong> <a href="https://gitlab.com/elliotvh" target="_blank">elliotvh</a><br />
+<strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/elliotvhill" target="_blank">in/elliotvhill</a><br />
+<strong>Threads:</strong> <a href="https://www.threads.net/@elliotvh.dev" target="_blank">@elliotvh.dev</a><br />
+<strong>Hackerrank:</strong> <a href="https://www.hackerrank.com/elliotvh" target="_blank">elliotvh</a><br />
+<strong>LeetCode:</strong> <a href="https://leetcode.com/ell8031/" target="_blank">ell8031</a><br />
+<strong>Codewars:</strong> <a href="https://www.codewars.com/users/ell8031" target="_blank">ell8031</a><br />
+<strong>Codepen:</strong> <a href="https://codepen.io/ell8031" target="_blank">ell8031</a><br />

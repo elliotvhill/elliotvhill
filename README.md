@@ -6,6 +6,8 @@ I am a web developer and junior software engineer with over **10 years of experi
 
 In my previous role as an enterprise customer support representative, I developed a strong **customer-centric mindset**, facilitated cross-functional communication between product and engineering teams, and **consistently exceeded expectations** in customer satisfaction and business retention.
 
+With a broad background in customer service, political science, and **diversity and inclusion leadership**, I approach all projects through a lens of **accessibility, equity, and integrity**.
+
 ---
 
 #### Languages and frameworks:

@@ -8,6 +8,8 @@ In my previous role as an enterprise customer support representative, I develope
 
 With a broad background in customer service, political science, and **diversity and inclusion leadership**, I approach all projects through a lens of **accessibility, equity, and integrity**.
 
+***These days I'm more active over on GitLab: [check me out there](https://gitlab.com/elliotvh)!***
+
 ---
 
 #### Languages and frameworks:

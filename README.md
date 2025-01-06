@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Elliot</h1>
-<h3 align="center">I am a web developer and junior software engineer based in Philadelphia.</h3>
+<h3 align="center">I am a junior software engineer based in Philadelphia.</h3>
 
 - 📚 I’m currently learning **Java**
 

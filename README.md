@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Elliot</h1>
 <h3 align="center">I am a junior software engineer based in Philadelphia.</h3>
 
-- 📚 I’m currently learning **Java, MySQL**
+- 📚 I’m currently learning **Java, MySQL, Spring & Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/elliotvh](https://gitlab.com/elliotvh)
 

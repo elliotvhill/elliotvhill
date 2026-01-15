@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Elliot</h1>
 <h3 align="center">I am a junior software engineer based in Philadelphia.</h3>
 
-- 📚 I’m currently learning **Java, MySQL, Spring & Spring Boot**
+- 📚 I’m currently learning **API design, n8n & workflow automation**
 
-- 👨‍💻 All of my projects are available at [https://gitlab.com/elliotvh](https://gitlab.com/elliotvh)
+- 👨‍💻 All of my projects are available at [https://gitlab.com/elliotvh](gitlab.com/elliotvh) and [https://github.com/elliotvhill](github.com/elliotvhill)
 
 - 💬 Ask me about **The Witcher, space and astronomy, the National**
 
@@ -11,7 +11,9 @@
 
 - 🐢 Fun fact: **I have a pet box turtle that is nearly as old as I am!**
 
-In 2023, I graduated from a full stack **software engineering boot camp**, where I gained experience with the latest front- and back-end programming languages, tools, and methodologies—including **HTML, CSS, SASS, JavaScript, Node.JS, React.JS, MongoDB, Mongoose, SQL, Python, and Django**—and completed a number of projects focused on the real-world applications of web development principles and best practices.
+In August 2023, I graduated from a full stack **software engineering boot camp**, where I gained experience with the latest front- and back-end programming languages, tools, and methodologies—including **HTML, CSS, SASS, JavaScript, Node.JS, React.JS, MongoDB, Mongoose, SQL, Python, and Django**—and completed a number of projects focused on the real-world applications of web development principles and best practices.
+
+In March 2025, I completed an 18-week, **back end software development** course focused on **Java**, **Relational Databases** with **MySQL**, and Web **API Design** with **Spring Boot**.
 
 In my previous role as an enterprise customer support representative, I developed a strong **customer-centric mindset**, facilitated cross-functional communication between product and engineering teams, and **consistently exceeded expectations** in customer satisfaction and business retention.
 
